@@ -19,8 +19,8 @@ namespace lab2
         double Nx = 5;
         double Ny = 10;
         double h = 1;
-        float temp4 = 20;
-        float temp2 = 10;
+        float temp4 = 10;
+        float temp2 = 20;
 
         public Form1()
         {
